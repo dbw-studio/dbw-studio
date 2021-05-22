@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
 <!--
 **dbw-studio/dbw-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on learning coding. ...
+- 🔭 I’m currently working on learning coding.
+
+---
