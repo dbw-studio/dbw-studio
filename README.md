@@ -3,7 +3,7 @@
 
 🔭 Working on blogging at the same time.
 
-I try to understand abstractions of JavaScript by writing and make some graphs and illustrations. [like this](https://db35reset.wordpress.com/2021/05/19/js_eventloop/)
+I try to understand abstractions of JavaScript by writing and making some graphs and illustrations. [like this](https://db35reset.wordpress.com/2021/05/19/js_eventloop/)
 
 ![Minion](https://db35reset.files.wordpress.com/2021/05/event-1.gif?w=587&zoom=2)
 
